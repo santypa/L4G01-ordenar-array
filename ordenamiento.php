@@ -43,7 +43,7 @@ echo "numero de comparaciones : ".$comparaciones;
 <!DOCTYPE html>
 <html>
     <head>
-        <title>ordenar</title>
+        <title>iniciar proyecto</title>
         
         <link rel="stylesheet" href="css/estilos.css">
         <style>
