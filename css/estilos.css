@@ -1,0 +1,42 @@
+*{margin: 0; padding: 0;}
+
+body{
+    
+
+    background: url(../img/bg5.jpg);
+    
+
+}
+
+.input.button{
+    border: 1px solid rgb(20, 192, 57); 
+    background-attachment: fixed; 
+    border-color: rgb(1, 185, 161);
+
+}
+
+.button{
+
+background: rgb(29, 16, 143);
+}
+
+
+.efecto{
+
+border-radius: 15px;
+background: rgb(80, 177, 221);
+color:rgb(17, 17, 15);
+display: inline-block;
+text-decoration: none;
+
+width: 120PX;
+height: 30px;
+
+box-shadow:3px 3px 8px 5px  rgba(5, 5, 5, 0.685) ;
+}
+
+.efecto:hover{
+
+box-shadow: 3px 3px 20px 8px blue;
+padding-top: 10px;
+}
