@@ -13,7 +13,7 @@ $aux;
 $comparaciones=0;
 $intercambios=0;
 
-
+echo "<br>";
    for( $z = 1; $z < count($vec); $z++) {
     for( $va = 0; $va < (count($vec) - $z); $va++) 
     {
